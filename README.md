@@ -38,12 +38,12 @@ https://alex-design-for-reap.github.io/Challenge-03-JavaScript/
 
 ## This is the application before receiving any data input.
 
-![alt text](<Screenshot 2024-03-20 at 4.22.03 pm.png>)
+![alt text](<Assets/images/Screenshot 2024-03-20 at 4.22.03 pm.png>)
 
 ## This is the application after receiving data input from user.
 
-![alt text](<Screenshot 2024-03-20 at 4.25.24 pm.png>)
+![alt text](<Assets/images/Screenshot 2024-03-20 at 4.25.24 pm.png>)
 
 ## This is the content displayed in the console after receiving data input from user.
 
-![alt text](<Screenshot 2024-03-20 at 4.28.00 pm.png>)
+![alt text](<Assets/images/Screenshot 2024-03-20 at 4.28.00 pm.png>)
